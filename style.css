@@ -1,0 +1,18 @@
+.txt-underline{
+    border-bottom: 3px solid green;
+    padding: 0px 20px;
+}
+
+.custom-cover{
+    background-image: url(images/recharge.jpg);
+    height: 500px;
+}
+.link-text{
+    text-decoration: none;
+    text-decoration-line: none;
+    -moz-text-decoration-line: none;
+}
+.card{
+    padding: 30px;
+    border: none;
+}
